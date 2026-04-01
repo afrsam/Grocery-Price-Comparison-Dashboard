@@ -28,11 +28,11 @@ The dashboard was created in Power BI using a grocery pricing dataset containing
 
 **Data Preparation**
 
-Imported grocery pricing data into Power BI
+Imported grocery pricing data into Power BI.
 
-Validated store names and product categories
+Validated store names and product categories.
 
-Checked for missing or inconsistent price values
+Checked for missing or inconsistent price values.
 
 **Data Transformation**
 
