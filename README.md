@@ -26,7 +26,7 @@ The dashboard was created in Power BI using a grocery pricing dataset containing
 
 **Steps followed**
 
-Data Preparation
+**Data Preparation**
 
 Imported grocery pricing data into Power BI
 
